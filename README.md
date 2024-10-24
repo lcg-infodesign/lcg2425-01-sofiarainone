@@ -8,6 +8,8 @@ https://spalterdigital.com/artworks/walk-through-raster-series-7-3-3-1/
 
 In 1966, Nake used the Walk-through-Raster software in the ALGOL 60 programming language to create as series of computer-generated drawings on paper. The drawings were produced by a ZUSE-Graphomat Z64.
 
+Le osservazioni da me effettuate sull'opera sono contenute nel codice.
+
 ![IMG_8106-scaled](https://github.com/user-attachments/assets/85639989-c19d-41ad-ac22-00561cc937ea)
 
 
